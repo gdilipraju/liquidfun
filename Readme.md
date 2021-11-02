@@ -3,7 +3,7 @@ alt="LiquidFun logo" style="float:right;" />
 
 LiquidFun Version [1.1.0][]
 
-# Welcome to LiquidFun!
+# Welcome to LiquidFun!!
 
 LiquidFun is a 2D physics engine for games.  Go to our
 [landing page][] to browse our documentation and see some examples.
